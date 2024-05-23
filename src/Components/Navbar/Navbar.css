@@ -1,0 +1,14 @@
+.navbar a.active{
+    padding: 3px;
+    border: 3px solid  rgb(18, 212, 18);
+    border-radius:10px ;
+    color:rgb(18, 212, 18);
+}
+.nav a.active{
+    padding: 8px;
+    border-top: 2px solid ;
+    border-right: 2px solid ;
+    border-left: 2px solid;
+    border-radius: 8px;
+    
+}
